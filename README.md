@@ -1,5 +1,5 @@
 # Build and Deploy a Responsive Website using HTML & CSS | 2023
-![Sushi](https://i.ibb.co/dBxww2c/Sushi.png)
+
 
 ## Introduction
 Sushi is a modern, fully responsive HTML & CSS website with animations!
