@@ -1,4 +1,5 @@
 # Build and Deploy a Responsive Website using HTML & CSS | 2023
+![Screenshot](Screenshot.jpg)
 
 
 ## Introduction
